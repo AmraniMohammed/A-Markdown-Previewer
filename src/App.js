@@ -46,7 +46,7 @@ And here. | Okay. | I think we get it.
 1. Use just 1s if you want!
 1. And last but not least, let's not forget embedded images:
 
-![freeCodeCamp Logo](https://image.flaticon.com/icons/png/512/1336/1336494.png)
+![Logo](https://image.flaticon.com/icons/png/512/1336/1336494.png)
 `
 
 class App extends Component {
